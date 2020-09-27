@@ -9,9 +9,9 @@ body {
     margin: 100px 350px;
     }
 
-#main {
+h1, h2, p {
     background-color: white;
     color:black;
     font-family: Arial, Helvetica, sans-serif;
-    padding:40px 0px;
+    padding: 50px;
 }
