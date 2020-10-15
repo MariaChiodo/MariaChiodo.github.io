@@ -39,7 +39,7 @@ body {
   /* style the logo link */
   .header a.logo {
     font-size: 25px;
-    font-weight: lighter;
+    font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
   }
   
