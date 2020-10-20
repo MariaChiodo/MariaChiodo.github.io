@@ -9,6 +9,10 @@ body {
     margin: 100px;
     }
 
+.content h3 {
+  font-style: italic;
+}
+
 .content {
     background-color: white;
     color:black;
