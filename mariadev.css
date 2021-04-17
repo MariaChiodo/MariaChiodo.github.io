@@ -51,7 +51,7 @@ body {
   
   /* change color for active page */
   .header a.active {
-    background-color: rgb(240, 33, 119);
+    background-color: rgb(241, 132, 132);
     color: white;
   }
   
